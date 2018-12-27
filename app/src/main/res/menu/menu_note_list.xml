@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/list_delete"
+        android:icon="@mipmap/trash"
+        android:title="删除模式"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/manager"
+        android:icon="@mipmap/manage"
+        app:showAsAction="never"
+        android:title="管理笔记本"/>
+
+</menu>
