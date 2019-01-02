@@ -24,10 +24,6 @@ note app sqlitedatabase mvp 笔记 一款以sqlitedatabase为数据库，采用M
    
 本项目高仿Gnote的UI界面，仅供个人学习使用，切勿用于商业用途  
 
-
-撸码不易，欢迎Star，比心
-
-再次致敬郭霖鸿洋两位大神，特别是郭霖大大，没有他的书和博客，我在android的道路上是坚持不到现在的  
   
 拥抱开源  
 <a href="https://github.com/hongyangAndroid/baseAdapter">baseAdapter</a>  
